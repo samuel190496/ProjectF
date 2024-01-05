@@ -6,6 +6,10 @@ public class DemoF {
 		
 		System.out.println("the last dance of java");
 		System.out.println("happy new year ");
+
+		System.out.println("ali was in here ");
+		System.out.println("2024 is here  ");
+		System.out.println("what is what  ");
 	}
 
 }
